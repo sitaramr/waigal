@@ -1,4 +1,4 @@
-package io.naakela.ride.common;
+package io.ridehub.location;
 
 public class Location {
 

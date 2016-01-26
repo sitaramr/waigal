@@ -1,7 +1,9 @@
-package io.naakela.ride.common;
+package io.ridehub.ride;
 
 import java.util.Date;
 import java.util.List;
+
+import io.ridehub.user.User;
 
 public interface Ride {
 

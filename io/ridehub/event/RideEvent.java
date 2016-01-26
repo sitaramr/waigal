@@ -1,4 +1,4 @@
-package io.naakela.ride.event;
+package io.ridehub.event;
 
 public interface RideEvent {
 

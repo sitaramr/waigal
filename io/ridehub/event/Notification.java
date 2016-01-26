@@ -1,6 +1,5 @@
-package io.naakela.ride.notification;
-
-import io.naakela.ride.common.User;
+package io.ridehub.event;
+import io.ridehub.user.User;
 
 public interface Notification {
 

@@ -1,8 +1,8 @@
-package io.naakela.ride.search;
+package io.ridehub.search;
 
 import java.util.Date;
 
-import io.naakela.ride.common.Location;
+import io.ridehub.location.Location;
 
 public class RideSearchCriteria {
 

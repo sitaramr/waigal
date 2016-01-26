@@ -1,11 +1,11 @@
-package io.naakela.ride.hub;
+package io.ridehub.hub;
 
 import java.util.Date;
 
-import io.naakela.ride.common.Location;
-import io.naakela.ride.common.Ride;
-import io.naakela.ride.common.User;
-import io.naakela.ride.search.RideSearchCriteria;
+import io.ridehub.location.Location;
+import io.ridehub.ride.Ride;
+import io.ridehub.search.RideSearchCriteria;
+import io.ridehub.user.User;
 
 public interface RideHub {
 	
