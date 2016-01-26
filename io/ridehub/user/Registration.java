@@ -1,4 +1,5 @@
-package io.naakela.ride.hub;
+package io.ridehub.user;
+
 
 public interface Registration {
 
